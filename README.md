@@ -27,12 +27,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=venupriya&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venupriya&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gorapallivenupriya-svg&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorapallivenupriya-svg&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=venupriya&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=gorapallivenupriya-svg&theme=radical&hide_border=true" />
 </div>
 
 <br>
@@ -49,7 +49,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/venupriya/venupriya/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/gorapallivenupriya-svg/gorapallivenupriya-svg/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br>
