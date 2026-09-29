@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gorapallivenupriya-svg&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorapallivenupriya-svg&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorapallivenupriya-svg&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gorapallivenupriya-svg&theme=radical" />
 </div>
 
 <div align="center">
