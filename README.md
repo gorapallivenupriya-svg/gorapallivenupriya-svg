@@ -27,12 +27,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorapallivenupriya-svg&theme=radical" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gorapallivenupriya-svg&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venu-priya&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venu-priya&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gorapallivenupriya-svg&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=venu-priya&theme=radical&hide_border=true" />
 </div>
 
 <br>
@@ -49,7 +49,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gorapallivenupriya-svg/gorapallivenupriya-svg/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/venu-priya/venu-priya/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br>
